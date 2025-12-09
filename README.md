@@ -1,17 +1,17 @@
-# 🎬 Rental Analytics Operations 
+# 🎬 Movies Rental store Operations 
 <img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/08dcb68b-263c-44cf-99a5-9b5e7b8aa6d1" />
 
 
 
-### Exploring Movie Rentals, Revenue & Customer Insights with MySQL
+### Exploring Movies Rentals, Revenue & Customer Insights with MySQL
 
 ---
 
 ## 📘 Project Overview
-This project presents an **Exploratory Data Analysis (EDA)** on the **Sakila Movie Rental Database** using **MySQL**.  
+This project presents an **Exploratory Data Analysis (EDA)** on the **Movie Rental Database** using **MySQL**.  
 It uncovers insights into **store revenue**, **movie performance**, **customer behavior**, and **inventory trends**, simulating a real-world movie rental business.
 
-The **Sakila Database** is a publicly available sample dataset provided by MySQL, containing tables for films, rentals, payments, and customers.
+The ** Movies Database** is a publicly available sample dataset provided by MySQL, containing tables for films, rentals, payments, and customers.
 
 ---
 
@@ -43,7 +43,7 @@ The **Sakila Database** is a publicly available sample dataset provided by MySQL
 
 ## 🧭 Entity Relationship Diagram (ERD)
 
-The diagram below represents the structure of the **Sakila Movie Rental Database**, 
+The diagram below represents the structure of the **Movies Rental Database**, 
 showing how various entities such as films, customers, stores, staff, and payments are interconnected.
 
 It provides a clear view of **primary–foreign key relationships**, helping understand 
@@ -121,7 +121,7 @@ It highlights key business metrics such as **store-wise revenue**, **top genres*
 ## 🗂️ Repository Structure
 
 ```
-Sakila-Data-Analysis-SQL-EDA/
+Movies-Data-Analysis-SQL-EDA/
 │
 ├── 📜 README.md                     # Full project documentation (you already wrote)
 │
