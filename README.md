@@ -1,4 +1,4 @@
-# 🎬 Rental Analytics Operations – SQL Insights & Reporting
+# 🎬 Rental Analytics Operations 
 <img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/08dcb68b-263c-44cf-99a5-9b5e7b8aa6d1" />
 
 
